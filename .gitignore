@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.pkl
+*.json
+*.xlsx
+*.sql
+*.sqlite
+
+# Large datasets and folders
+data/
+
+# Python specific
+__pycache__/
+
+# OS specific
+.DS_Store
+Thumbs.db
